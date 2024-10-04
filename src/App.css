@@ -1,0 +1,14 @@
+#ingred::-webkit-scrollbar {
+  width: 6px !important;
+}
+#ingred::-webkit-scrollbar-track {
+  background-color: #e6e4df !important;
+}
+#ingred::-webkit-scrollbar-thumb {
+  background-color: #debb64 !important;
+
+  border-radius: 10px !important;
+}
+#ingred::-webkit-scrollbar-thumb:hover {
+  background-color: #555 !important;
+}
